@@ -12,7 +12,7 @@ Model classes maps data to data base tables | Python functions that are mapped t
 
 * django-admin startproject ${name_of_the_project} -->  starts a new django project
 * python manage.py startapp ${name_of_website} --> creates a folder with model, view and template
-* python manage.py run server -> starts the server
+* python manage.py run server --> starts the server
 * python manage.py make migrations --> updates the database with the data form changes made as admin
 * python manage.py show migrations --> shows the changes that were made
 
